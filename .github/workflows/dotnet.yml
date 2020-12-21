@@ -1,10 +1,19 @@
-name: .NET
+name: .NET Test
 
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+
+  workflow_dispatch:
+      inputs:
+        tag:
+          description: Person to greet
+          required: true
+          default: Mona the Octocat
+        name:
+          description: another param
+          required: true
+
 
 jobs:
   build:
@@ -22,4 +31,6 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: |
+        dotnet run
+        dotnet build --no-restore

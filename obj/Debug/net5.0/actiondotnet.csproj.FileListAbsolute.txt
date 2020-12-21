@@ -1,0 +1,16 @@
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\bin\Debug\net5.0\actiondotnet.exe
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\bin\Debug\net5.0\actiondotnet.deps.json
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\bin\Debug\net5.0\actiondotnet.runtimeconfig.json
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\bin\Debug\net5.0\actiondotnet.runtimeconfig.dev.json
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\bin\Debug\net5.0\actiondotnet.dll
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\bin\Debug\net5.0\ref\actiondotnet.dll
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\bin\Debug\net5.0\actiondotnet.pdb
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\actiondotnet.csprojAssemblyReference.cache
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\actiondotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\actiondotnet.AssemblyInfoInputs.cache
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\actiondotnet.AssemblyInfo.cs
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\actiondotnet.csproj.CoreCompileInputs.cache
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\actiondotnet.dll
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\ref\actiondotnet.dll
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\actiondotnet.pdb
+C:\Users\Wechuli\Documents\repos\playfield\actiondotnet\obj\Debug\net5.0\actiondotnet.genruntimeconfig.cache
