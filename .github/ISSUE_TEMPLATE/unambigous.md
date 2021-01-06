@@ -6,3 +6,4 @@ labels: ''
 assignees: ''
 
 ---
+This is just a unmbigious issue template to test this.
